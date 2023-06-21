@@ -12,9 +12,9 @@
   "dependencies": {
     "@nestjs/common": "6.5.3",
     "@nestjs/core": "6.5.3",
-    "@nestjs/platform-fastify": "6.5.3",
+    "@nestjs/platform-fastify": "7.4.0",
     "handlebars": "4.1.2",
-    "point-of-view": "3.5.0",
+    "point-of-view": "4.0.0",
     "reflect-metadata": "0.1.13",
     "rxjs": "6.5.2",
     "typescript": "3.5.3"
