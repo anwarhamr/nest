@@ -13,7 +13,7 @@
     "@nestjs/common": "6.5.3",
     "@nestjs/core": "6.5.3",
     "@nestjs/platform-express": "6.5.3",
-    "hbs": "4.0.4",
+    "hbs": "4.1.1",
     "pug": "2.0.4",
     "reflect-metadata": "0.1.13",
     "rxjs": "6.5.2",
